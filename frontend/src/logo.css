@@ -1,0 +1,15 @@
+  .logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+  }
+
+  .logo .image img {
+    height: 300px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-left: 90px;
+    
+  }
