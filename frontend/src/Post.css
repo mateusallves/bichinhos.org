@@ -1,0 +1,40 @@
+.post {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #ffffff;
+  }
+  
+  .post-header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .post-header img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .post p {
+    margin: 10px 0;
+  }
+  
+  .post-actions {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .post-actions button {
+    border: none;
+    background: none;
+    color: #007BFF;
+    cursor: pointer;
+  }
+  
+  .post-actions button:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px;
+    padding-right: 380px;
+ 
+    
+  }
+  
+  .header .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header .logo img {
+    height: 300px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  .header h1 {
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  
+  .header nav button {
+    margin: 0 5px;
+    padding: 10px;
+    border: none;
+    background-color:#32C5D2;
+    color: #003f9c;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .header nav button:hover {
+    background-color: #2daab6;
+  }
+  
