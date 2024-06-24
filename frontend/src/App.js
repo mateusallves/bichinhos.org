@@ -1,3 +1,4 @@
+##main
 import React from 'react';
 import Header from './Header';
 import Post from './Post';
@@ -35,3 +36,23 @@ const App = () => {
 };
 
 export default App;
+=======
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <p>
+        </p>
+        <a>
+          Learn React
+        </a>
+      </header>
+    </div>
+  );
+}
+
+export default App;
+##atualizações-front
